@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kajirita2002-honeycomb-mcp-server-badge.png)](https://mseep.ai/app/kajirita2002-honeycomb-mcp-server)
+
 # Honeycomb MCP Server
 
 <a href="https://glama.ai/mcp/servers/honeycomb-mcp-server">
